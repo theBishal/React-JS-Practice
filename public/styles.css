@@ -1,0 +1,12 @@
+.header-name {
+  font-size: 30px;
+  color: red;
+  text-align: center;
+}
+.headline {
+  color: blue;
+}
+.button {
+  padding: 5px 10px;
+  margin: 5px;
+}
